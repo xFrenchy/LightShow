@@ -1,6 +1,6 @@
 .git
 .vs
-Video/Example/*
-x64/*
-Sobel/Image/*
-Sobel/x64/*
+Video/Example/**
+x64/**
+Sobel/Image/**
+Sobel/x64/**
