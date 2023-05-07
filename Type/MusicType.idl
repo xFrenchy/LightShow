@@ -1,0 +1,5 @@
+struct MusicType{
+	boolean playing;
+	@optional string<64> name;
+	@optional string<32> genre;
+};
