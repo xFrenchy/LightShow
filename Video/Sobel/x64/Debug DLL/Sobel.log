@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\Frenchy\Desktop\LightShow\Video\Sobel\main.cpp(89,40): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
-  Sobel.vcxproj -> C:\Users\Frenchy\Desktop\LightShow\Video\x64\Debug DLL\Sobel.exe
